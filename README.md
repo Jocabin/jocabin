@@ -1,16 +1,22 @@
-### Hi there 👋
+# Hi there 👋, I'm Yaakov
 
-<!--
-**Jocabin/jocabin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Junior Front-End Developer, studying at ECV Digital and based in Bordeaux.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💖 My favorites stacks/languages
+
+<img src="https://cdn.worldvectorlogo.com/logos/vue-9.svg" width="48px" height="48px" /> <img src="https://nuxtjs.org/design-kit/colored-logo.svg" width="48px" height="48px" /> <img src="https://cdn.worldvectorlogo.com/logos/rust.svg" width="48px" height="48px" /> <img src="https://cdn.worldvectorlogo.com/logos/sass-1.svg" width="48px" height="48px" />
+
+---
+
+🛠️ My tools
+
+<img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" width="48px" height="48px" /> <img src="https://cdn.worldvectorlogo.com/logos/figma-1.svg" width="48px" height="48px" /> <img src="https://cdn.worldvectorlogo.com/logos/linux-tux.svg" width="48px" height="48px" />
+
+---
+
+⚽️ My hobbies
+* 🎸 Music (Electric guitar)
+* 📖 Reading
+* 💻 Tech world
