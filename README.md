@@ -20,3 +20,4 @@ I'm a Junior Front-End Developer, studying at ECV Digital and based in Bordeaux.
 * 🎸 Music (Electric guitar)
 * 📖 Reading
 * 💻 Tech world
+* 🧗 Climbing
