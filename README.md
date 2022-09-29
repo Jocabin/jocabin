@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Yaakov
 
-I'm a Junior Front-End Developer, studying at ECV Digital and based in Bordeaux.
+I'm a Junior Full-Stack Developer focused on users, performances and best practices.
 
 ---
 
