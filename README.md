@@ -6,7 +6,7 @@ I'm a Junior Full-Stack Developer focused on users, performances and best practi
 
 💖 My favorites stacks/languages
 
-<img style="margin-right: 16px;" src="https://cdn.worldvectorlogo.com/logos/svelte-1.svg" width="48px" height="48px" /> <img style="margin-right: 16px;" src="https://cdn.worldvectorlogo.com/logos/tailwind-css-2.svg" width="48px" height="48px" /> <img style="margin-right: 16px;" src="https://cdn.worldvectorlogo.com/logos/react-2.svg" width="48px" height="48px" /> <img style="margin-right: 16px;" src="https://cdn.worldvectorlogo.com/logos/golang-1.svg" width="48px" height="48px" />
+<img style="margin-right: 16px;" src="https://cdn.worldvectorlogo.com/logos/svelte-1.svg" width="48px" height="48px" /> <img style="margin-right: 16px;" src="https://cdn.worldvectorlogo.com/logos/tailwind-css-2.svg" width="48px" height="48px" /> <img style="margin-right: 16px;" src="https://cdn.worldvectorlogo.com/logos/react-2.svg" width="48px" height="48px" /> <img style="margin-right: 16px;" src="https://cdn.worldvectorlogo.com/logos/rust.svg" width="48px" height="48px" />
 
 ---
 
