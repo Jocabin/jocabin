@@ -12,7 +12,7 @@ I'm a Junior Full-Stack Developer focused on users, performances and best practi
 
 🛠️ My tools
 
-<img style="margin-right: 16px;" src="https://cdn.worldvectorlogo.com/logos/webstorm-icon.svg" width="48px" height="48px" /> <img style="margin-right: 16px;" src="https://cdn.worldvectorlogo.com/logos/vim.svg" width="48px" height="48px" /> <img style="margin-right: 16px;" src="https://raw.githubusercontent.com/wez/wezterm/master/assets/icon/wezterm-icon.svg" width="48px" height="48px" /> <img style="margin-right: 16px;" src="https://cdn.worldvectorlogo.com/logos/windows-1.svg" width="48px" height="48px" /> <img style="margin-right: 16px;" src="https://cdn.worldvectorlogo.com/logos/ubuntu-4.svg" width="48px" height="48px" /> <img style="margin-right: 16px;" src="https://cdn.worldvectorlogo.com/logos/figma-1.svg" width="48px" height="48px" />
+<img style="margin-right: 16px;" src="https://cdn.worldvectorlogo.com/logos/webstorm-icon.svg" width="48px" height="48px" /> <img style="margin-right: 16px;" src="https://cdn.worldvectorlogo.com/logos/vim.svg" width="48px" height="48px" /> <img style="margin-right: 16px;" src="https://raw.githubusercontent.com/wez/wezterm/master/assets/icon/wezterm-icon.svg" width="48px" height="48px" /> <img style="margin-right: 16px;" src="https://cdn.worldvectorlogo.com/logos/ubuntu-4.svg" width="48px" height="48px" /> <img style="margin-right: 16px;" src="https://cdn.worldvectorlogo.com/logos/figma-1.svg" width="48px" height="48px" />
 
 ---
 
