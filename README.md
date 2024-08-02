@@ -1,4 +1,4 @@
-Hi, I'm Yaakov, French web developer.
+Hi, I'm Yaakov, French web developer who master all the **usefull** web technologies and concepts.
 
 I'm learning real programming languages like C, Go, COBOL and Erlang, in order to become a true developer and quit the pseudo web development world.
 
