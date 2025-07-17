@@ -1,7 +1,5 @@
-Hi, I'm Yaakov, French web developer who master all the **usefull** web technologies and concepts.
+Hi, I'm Yaakov 🇫🇷
 
-I'm learning real programming languages like C, Odin, Go, COBOL and Erlang, in order to become a true developer and quit the pseudo web development world.
-
-To learn more about me and my skills => https://yaakovfar.dev
+I'm a french web developer who is interested in simple and performant software. In my day to day job, I'm creating websites or mobile apps for clients, but I did a lot of different projects! I'm mostly interested in creating simple and user-centered software.
 
 To contact me => contact@yaakovfar.dev
